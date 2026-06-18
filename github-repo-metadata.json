@@ -1,0 +1,53 @@
+{
+  "repository_name": "05-worldcup-live-intelligence",
+  "description": "World Cup 2026 live score, fixtures, standings and prediction intelligence project for FIFA football analytics.",
+  "topics": [
+    "world-cup-2026",
+    "world-cup-live-score",
+    "fifa-world-cup",
+    "world-cup-fixtures",
+    "world-cup-predictions",
+    "football-analytics",
+    "football-data",
+    "live-score",
+    "standings",
+    "python",
+    "pytest",
+    "openfootball",
+    "football-data-org",
+    "seo-ready",
+    "github-search"
+  ],
+  "visibility": "public",
+  "homepage": "",
+  "default_branch": "main",
+  "about_section": {
+    "description": "World Cup 2026 live score, fixtures, standings and prediction intelligence project for FIFA football analytics.",
+    "topics": [
+      "world-cup-2026",
+      "world-cup-live-score",
+      "fifa-world-cup",
+      "world-cup-fixtures",
+      "world-cup-predictions",
+      "football-analytics",
+      "football-data",
+      "live-score",
+      "standings",
+      "python",
+      "pytest",
+      "openfootball",
+      "football-data-org",
+      "seo-ready",
+      "github-search"
+    ],
+    "website": "Set after Resource Portals domain is confirmed"
+  },
+  "github_search_intent": [
+    "repository name",
+    "description",
+    "topics",
+    "README first screen",
+    "docs titles",
+    "examples and tests"
+  ]
+}
