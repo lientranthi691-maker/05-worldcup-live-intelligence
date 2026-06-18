@@ -1,0 +1,9 @@
+﻿[project]
+name = "05-worldcup-live-intelligence"
+version = "0.1.0"
+description = "闈㈠悜 2026 涓栫晫鏉叧閿瘝娴侀噺锛屾暣鍚堣禌绋嬨€佺悆闃熴€佸巻鍙蹭笘鐣屾澂鏁版嵁鍜屽疄鏃舵瘮璧涚姸鎬併€?
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+
